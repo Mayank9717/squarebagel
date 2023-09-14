@@ -524,7 +524,7 @@ a {
   width: 90%;
   margin: 0 auto;
   position: absolute !important;
-  bottom: -20%;
+  bottom: -26%;
   border-radius: 10px;
   background-color: #fff;
   box-shadow: 0px 4px 40px 0px #00000026;
@@ -784,6 +784,144 @@ footer {
   bottom: -8px;
   right: -8px;
 }
+.class_one {
+  content: "";
+  background-image: url("./images/1.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+}
+.class_two {
+  content: "";
+  background-image: url("./images/2.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 15rem;
+  top: 2rem;
+}
+.class_three {
+  content: "";
+  background-image: url("./images/3.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 7rem;
+  top: 6rem;
+}
+.class_four {
+  content: "";
+  background-image: url("./images/4.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 1rem;
+  top: 11rem;
+}
+.class_five {
+  content: "";
+  background-image: url("./images/5.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 14rem;
+  top: 10rem;
+}
+.class_six {
+  content: "";
+  background-image: url("./images/6.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 21rem;
+  top: 12rem;
+}
+.class_seven {
+  content: "";
+  background-image: url("./images/7.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 26rem;
+  top: 2rem;
+}
+.class_eight {
+  content: "";
+  background-image: url("./images/8.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 49rem;
+  top: 0rem;
+}
+.class_nine {
+  content: "";
+  background-image: url("./images/9.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 45rem;
+  top: 12rem;
+}
+.class_ten {
+  content: "";
+  background-image: url("./images/10.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 70rem;
+  top: 14rem;
+}
+.class_eleven {
+  content: "";
+  background-image: url("./images/11.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 81rem;
+  top: 0;
+}
+.class_twelve {
+  content: "";
+  background-image: url("./images/9.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 98rem;
+  top: 5rem;
+}
+.class_thirteen {
+  content: "";
+  background-image: url("./images/12.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 108rem;
+  top: 0rem;
+}
+.class_fourteen {
+  content: "";
+  background-image: url("./images/13.png");
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  background-repeat: no-repeat;
+  left: 110rem;
+  top: 10rem;
+}
 @media only screen and (max-width: 767px) {
   .ptb-120 {
     padding-top: 3rem;
@@ -920,7 +1058,9 @@ footer {
     font-size: 32px;
   }
   .bg_image h1 {
-    font-size: 1.5rem;
+    font-size: 2rem;
+    text-align: center;
+    padding: 0 33px;
   }
   .grid_section_one_item h1 {
     width: 100%;
@@ -962,5 +1102,155 @@ footer {
   .main-menu .main-menu__list > li + li,
   .stricky-header .main-menu__list > li + li {
     margin-left: 0px;
+  }
+  .class_one {
+    content: "";
+    background-image: url("./images/1.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    display: none;
+  }
+  .class_two {
+    content: "";
+    background-image: url("./images/2.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 15rem;
+    top: 2rem;
+    display: none;
+  }
+  .class_three {
+    content: "";
+    background-image: url("./images/3.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 7rem;
+    top: 6rem;
+    display: none;
+  }
+  .class_four {
+    content: "";
+    background-image: url("./images/44.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 19rem;
+    top: 0;
+  }
+  .class_five {
+    content: "";
+    background-image: url("./images/5.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 14rem;
+    top: 10rem;
+    display: none;
+  }
+  .class_six {
+    content: "";
+    background-image: url("./images/112.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: -20px;
+    top: 7rem;
+  }
+  .class_seven {
+    content: "";
+    background-image: url("./images/999.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 20.5rem;
+    top: 19.5rem;
+  }
+  .class_eight {
+    content: "";
+    background-image: url("./images/8.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 5rem;
+    top: 0rem;
+  }
+  .class_nine {
+    content: "";
+    background-image: url("./images/99.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 7rem;
+    top: 21.4rem;
+  }
+  .class_ten {
+    content: "";
+    display: none;
+    background-image: url("./images/10.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 70rem;
+    top: 14rem;
+    display: none;
+  }
+  .class_eleven {
+    content: "";
+    background-image: url("./images/111.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 0;
+    top: 0;
+  }
+  .class_twelve {
+    content: "";
+    background-image: url("./images/77.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: -2rem;
+    top: 20rem;
+  }
+  .class_thirteen {
+    content: "";
+    background-image: url("./images/12.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 108rem;
+    top: 0rem;
+  }
+  .class_fourteen {
+    content: "";
+    background-image: url("./images/13.png");
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-repeat: no-repeat;
+    left: 23rem;
+    top: 5rem;
+  }
+  .bg_image {
+    height: 25rem;
+  }
+  .overflow {
+    overflow: hidden;
   }
 }

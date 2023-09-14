@@ -4,6 +4,7 @@ $(document).ready(function () {
     slidesToScroll: 1, // Number of items to scroll at a time
     autoplay: true, // Autoplay the slider
     autoplaySpeed: 2000, // Autoplay speed in milliseconds
+    infinite: true,
     responsive: [
       {
         breakpoint: 768, // Breakpoint for responsive design
